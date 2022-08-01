@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.title{
+    margin: 40px;
+    color: black;
+    text-align: center;
+}
